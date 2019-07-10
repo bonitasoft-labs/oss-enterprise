@@ -1,6 +1,6 @@
-# Getting Started with Open Source in the Enterprise
+# Github OSS Tool Kit
 
-Welcome to our course on **Getting Started with Open Source in the Enterprise**. We are excited to join you in this journey and look forward to helping you meet your OSS goals.
+This was created using Github course on **Getting Started with Open Source in the Enterprise**. This could help us define and meet some new OSS goals.
 
 ### How It Works
 
@@ -12,4 +12,7 @@ This is a **learning** repository. You will see that the `github-learning-lab` b
 
 ### Getting Started
 
+**Go check this project [issues](https://github.com/bonitasoft-labs/oss-enterprise/issues)!**
+
 We hope you are excited to get started! Head over to the take your first steps toward a :sparkles: Open Source program for your company.
+
