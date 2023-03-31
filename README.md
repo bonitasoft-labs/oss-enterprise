@@ -1,5 +1,8 @@
 # Github OSS Tool Kit
 
+This repository is no longer used and has been archived.
+
+
 This was created using Github course on **Getting Started with Open Source in the Enterprise**. This could help us define and meet some new OSS goals.
 
 ### How It Works
